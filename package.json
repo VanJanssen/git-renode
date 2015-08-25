@@ -1,0 +1,22 @@
+{
+  "name": "git-renode",
+  "version": "0.0.1",
+  "description": "Node.js application to manage git repositories, remote or local.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VanJanssen/git-renode.git"
+  },
+  "author": "VanJanssen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VanJanssen/git-renode/issues"
+  },
+  "homepage": "https://github.com/VanJanssen/git-renode#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
